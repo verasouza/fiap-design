@@ -37,10 +37,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 Siga os passos abaixo para rodar o projeto localmente:
 
 1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/hd-front.git
-   cd hd-front
-   ```
+
 
 2. **Instale as dependências**:
    ```bash
